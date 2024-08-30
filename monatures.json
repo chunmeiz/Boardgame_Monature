@@ -1,0 +1,117 @@
+{
+    "monatures": [
+        {
+            "name": "meod",
+            "strength": 4,
+            "flair": 5,
+            "speed": 2
+        },
+        {
+            "name": "zekrok",
+            "strength": 4,
+            "flair": 1,
+            "speed": 1
+        },
+        {
+            "name": "victirairn",
+            "strength": 2,
+            "flair": 2,
+            "speed": 4
+        },
+        {
+            "name": "gardenk",
+            "strength": 3,
+            "flair": 4,
+            "speed": 5
+        },
+        {
+            "name": "dugg",
+            "strength": 2,
+            "flair": 2,
+            "speed": 2
+        },
+        {
+            "name": "runele",
+            "strength": 3,
+            "flair": 5,
+            "speed": 1
+        },
+        {
+            "name": "phiox",
+            "strength": 1,
+            "flair": 1,
+            "speed": 2
+        },
+        {
+            "name": "staragtrio",
+            "strength": 3,
+            "flair": 3,
+            "speed": 1
+        },
+        {
+            "name": "grapplos",
+            "strength": 1,
+            "flair": 5,
+            "speed": 1
+        },
+        {
+            "name": "unory",
+            "strength": 5,
+            "flair": 2,
+            "speed": 3
+        },
+        {
+            "name": "solrosh",
+            "strength": 2,
+            "flair": 1,
+            "speed": 5
+        }, {
+            "name": "lillite",
+            "strength": 3,
+            "flair": 4,
+            "speed": 1
+        },
+        {
+            "name": "rayquario",
+            "strength": 4,
+            "flair": 1,
+            "speed": 2
+        },
+        {
+            "name": "calym",
+            "strength": 3,
+            "flair": 2,
+            "speed": 2
+        },
+        {
+            "name": "gallaskene",
+            "strength": 3,
+            "flair": 2,
+            "speed": 1
+        },
+        {
+            "name": "magnen",
+            "strength": 4,
+            "flair": 1,
+            "speed": 5
+        },
+        {
+            "name": "pansava",
+            "strength": 5,
+            "flair": 4,
+            "speed": 3
+        },
+        {
+            "name": "uctagion",
+            "strength": 5,
+            "flair": 2,
+            "speed": 2
+        },
+        {
+            "name": "drakloalle",
+            "strength": 4,
+            "flair": 4,
+            "speed": 1
+        }
+    ]
+}
